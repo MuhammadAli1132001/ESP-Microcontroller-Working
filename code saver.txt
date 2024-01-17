@@ -90,3 +90,14 @@ WL_DISCONNECTED: assigned when disconnected from a network;
     // Wait a bit before scanning again
     delay(5000);
 }
+
+
+uploading to githup: -
+
+echo "# ESP-Microcontroller-Working" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MuhammadAli1132001/ESP-Microcontroller-Working.git
+git push -u origin main
