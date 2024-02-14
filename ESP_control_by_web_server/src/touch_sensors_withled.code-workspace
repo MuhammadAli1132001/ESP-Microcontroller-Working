@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../touch_sensors_withled"
+		},
+		{
+			"name": "Dashboard_project_with_web_interface",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
