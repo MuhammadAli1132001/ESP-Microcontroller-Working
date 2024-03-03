@@ -1,0 +1,2 @@
+https://esp32-with-firebase-fec3e-default-rtdb.asia-southeast1.firebasedatabase.app/
+AIzaSyACLOGmlOSkGX-BM21Cx0BoVK1KC20cPyg
